@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "name": "anujgosalia",
+      "postHeading": "A Changing World Order",
+      "postTextData": "The world is changing at a feverish pace. Friends, colleagues, and everyone engaged in knowledge work are beginning to sense this, including...",
+      "likeStatus": true,
+      "isThought": false,
+      "views": 102,
+      "date": "August 2",
+      "readTime": "2 mins"
+    },
+    {
+      "id": 2,
+      "name": "anujgosalia",
+      "postHeading": "Indian v/s Australia",
+      "postTextData": "Think about it - this cricket series was akin to therapy.\n\n Laying our childhood trauma up top, working with it slowly and surely over two m...",
+      "likeStatus": true,
+      "isThought": true,
+      "views": 156,
+      "date": "January 21",
+      "readTime": "1 min"
+    },
+    {
+      "id": 3,
+      "name": "anujgosalia",
+      "postHeading": "Write To Build",
+      "postTextData": "Writing is the first step to create:\n\n -stories\n -products\n -companies ",
+      "likeStatus": true,
+      "isThought": true,
+      "views": 228,
+      "date": "November 18",
+      "readTime": "1 min"
+    }
+    
+  ]
+  
